@@ -3,7 +3,9 @@ Solves Inventory Routing Problem (IRP) on Euclidean Instances
 
 # Dependencies
 [dapcstp](https://github.com/mluipersbeck/dapcstp)
+
 [Concorde](http://www.math.uwaterloo.ca/tsp/concorde/downloads/downloads.htm)
+
 [Gurobi](https://www.gurobi.com)
 
 # Usage
